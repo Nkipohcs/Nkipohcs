@@ -54,21 +54,7 @@
   <img src="https://img.shields.io/badge/-macOS-999999?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
-
 ---
-
-<p align="center">
-  <img height="144" src="https://github-readme-stats.vercel.app/api?username=Nkipohcs&show_icons=true&theme=apprentice&hide=contribs,prs" alt="GitHub Stats"/>
-</p>
-
----
-
-<p align="right">
-  <img height="23" src="https://komarev.com/ghpvc/?username=Nkipohcs&color=blue" alt="Profile views"/>
-</p>
-
----
-
 ###
 <p align="center">
   <img height="144" src="https://github-readme-stats.vercel.app/api?username=Nkipohcs&show_icons=true&theme=apprentice&hide=contribs,prs" alt="GitHub Stats"/>
