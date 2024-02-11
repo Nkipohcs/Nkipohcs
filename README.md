@@ -17,12 +17,12 @@
 
 ### ⏳ My GitHub stats!
 <p align="center">
-  <img height="144" src="https://github-readme-stats.vercel.app/api?username=lucas-ht&show_icons=true&theme=apprentice&hide=contribs,prs" alt="GitHub Stats"/>
+  <img height="144" src="https://github-readme-stats.vercel.app/api?username=Nkipohcs&show_icons=true&theme=apprentice&hide=contribs,prs" alt="GitHub Stats"/>
 </p>
 
 ---
 
 ### Thanks for passing by! 
 <p align="right">
-  <img height="23" src="https://komarev.com/ghpvc/?username=lucas-ht&color=blue" alt="Profile views"/>
+  <img height="23" src="https://komarev.com/ghpvc/?username=Nkipohcs&color=blue" alt="Profile views"/>
 </p>
