@@ -1,5 +1,5 @@
-![Followers](https://img.shields.io/github/followers/lucas-ht?style=social)
-![Stars](https://img.shields.io/github/stars/lucas-ht?style=social)
+![Followers](https://img.shields.io/github/followers/Nkipohcs?style=social)
+![Stars](https://img.shields.io/github/stars/Nkipohcs?style=social)
 
 ---
 
