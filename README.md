@@ -1,7 +1,6 @@
 <p align="center">
   <strong>🛠️ Programming Languages & Scripting 🛠️</strong><br/><br/>
   <strong>─────────────────────────────────</strong><br/><br/>
-  
   <img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
