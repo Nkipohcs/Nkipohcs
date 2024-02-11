@@ -21,8 +21,6 @@
 </p>
 
 ---
-
-### Thanks for passing by! 
 <p align="right">
   <img height="23" src="https://komarev.com/ghpvc/?username=Nkipohcs&color=blue" alt="Profile views"/>
 </p>
