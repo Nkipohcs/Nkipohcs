@@ -18,6 +18,7 @@
 
 <p align="center">
   <strong>🔧 Frameworks, Libraries & Tools 🔧</strong><br/><br/>
+  <strong>─────────────────────────────────</strong><br/><br/>
   <img src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
@@ -30,6 +31,7 @@
 
 <p align="center">
   <strong>☁️ Cloud Platforms & Databases ☁️</strong><br/><br/>
+  <strong>─────────────────────────────────</strong><br/><br/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
@@ -40,6 +42,7 @@
 
 <p align="center">
   <strong>🖥️ Operating Systems & More 🖥️</strong><br/><br/>
+  <strong>─────────────────────────────────</strong><br/><br/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
