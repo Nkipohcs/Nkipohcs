@@ -1,17 +1,49 @@
-# Hey there! 👋
+version: 2
+updates:
+  # shields.io dependencies
+  - package-ecosystem: npm
+    directory: '/'
+    schedule:
+      interval: weekly
+      day: friday
+      time: '12:00'
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+    ignore:
+      # https://github.com/badges/shields/issues/7324
+      # https://github.com/badges/shields/issues/7447
+      # we're stuck with these versions until Safari is compatible with lookbehind regex syntax
+      # https://caniuse.com/js-regexp-lookbehind
+      - dependency-name: 'decamelize'
+      - dependency-name: 'humanize-string'
 
-### 🔧 Some of my favorite tools!
-<p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple"/>
-</p>
+  # badge-maker package dependencies
+  - package-ecosystem: npm
+    directory: '/badge-maker'
+    schedule:
+      interval: weekly
+      day: friday
+      time: '12:00'
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+
+  # GH actions
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+
+    # docusaurus-swizzled-warning package dependencies
+  - package-ecosystem: npm
+    directory: '/.github/actions/docusaurus-swizzled-warning'
+    schedule:
+      interval: weekly
+      day: friday
+      time: '12:00'
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
 
 ---
 
