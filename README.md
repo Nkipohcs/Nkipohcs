@@ -15,7 +15,7 @@
 
 ---
 
-### ⏳ My GitHub stats!
+###
 <p align="center">
   <img height="144" src="https://github-readme-stats.vercel.app/api?username=Nkipohcs&show_icons=true&theme=apprentice&hide=contribs,prs" alt="GitHub Stats"/>
 </p>
