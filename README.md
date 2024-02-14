@@ -1,4 +1,4 @@
-![PP](https://i.imgur.com/48uGm1p.gif)
+![PP](<blockquote class="imgur-embed-pub" lang="en" data-id="a/26RRyZi" data-context="false" ><a href="//imgur.com/a/26RRyZi"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 
 <p align="center">
