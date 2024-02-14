@@ -1,6 +1,7 @@
 <p align="center">
 ![PP](https://i.imgur.com/3G3eLFT.gif)
 </p>
+
 <p align="center">
   <strong>🛠️ Programming Languages & Scripting 🛠️</strong><br/><br/>
   <strong>─────────────────────────────────</strong><br/><br/>
