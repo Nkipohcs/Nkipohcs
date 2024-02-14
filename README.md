@@ -1,4 +1,4 @@
-![PP](https://i.imgur.com/x3ErAci.gif)
+![PP](https://i.imgur.com/3G3eLFT.gif)
 
 <p align="center">
   <strong>🛠️ Programming Languages & Scripting 🛠️</strong><br/><br/>
