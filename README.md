@@ -1,5 +1,5 @@
 <p align="center">
-  ![PP](https://i.imgur.com/3G3eLFT.gif)
+  <img src="https://i.imgur.com/3G3eLFT.gif" alt="PP">
 </p>
 
 <p align="center">
