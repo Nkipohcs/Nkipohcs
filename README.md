@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s7.ezgif.com/tmp/ezgif-7-ed3fb5f638.gif" alt="PP">
+  <img src="https://s7.ezgif.com/tmp/ezgif-7-37ba6292ee.gif" alt="PP">
 </p>
 
 <p align="center">
