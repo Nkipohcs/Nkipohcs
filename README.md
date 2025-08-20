@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/-PineScript-2CA5A0?style=for-the-badge&logo=tradingview&logoColor=white" alt="PineScript"/>
   <img src="https://img.shields.io/badge/-Smali-78909C?style=for-the-badge&logo=android&logoColor=white" alt="Smali"/>
+  <img src="https://img.shields.io/badge/-Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
 ---
